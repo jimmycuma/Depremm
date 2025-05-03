@@ -1,0 +1,2 @@
+rootProject.name = "DepremNotifier"
+include(":app")
